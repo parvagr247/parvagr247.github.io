@@ -1,0 +1,66 @@
+#header{
+    background-color: rgb(150, 0, 0);
+    color: azure;
+    line-height: 50px;
+    text-align: center;
+    font-family: Arial;
+}
+
+#subs_button{
+    background-color: rgb(150, 0, 0);
+    color: azure;
+    border-color: azure;
+    border-radius: 10px;
+}
+
+body{
+    width: fit-content;
+}
+
+#web_map{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/884/043/original/abstract-red-and-black-futuristic-gaming-background-in-livestream-free-vector.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: green;
+    line-height: 50px;
+
+}
+
+#web_name{
+    color: goldenrod;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: algerian;
+    vertical-align: text-bottom;
+}
+
+#HOME , #MEDIA, #YOUTUBE{
+    background-color: rgb(87, 87, 87);
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    vertical-align: text-bottom;
+}
+
+
+#main_heading{
+    text-align: center;
+    font-size: 100px;
+    color:goldenrod;
+    font-family: arial;
+
+}
+
+#article-1{
+    font-size: 20px;
+    font-family: arial;
+    
+}
+
+#footer{
+    background-color:darkcyan;
+    color:darkorange;
+    text-align: center;
+    line-height: 30px;
+    font-family: verdana;
+}
